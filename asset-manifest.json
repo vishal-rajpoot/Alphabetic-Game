@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alphabetic-Game/static/css/main.59f4fa2c.css",
+    "main.js": "/Alphabetic-Game/static/js/main.31705269.js",
+    "index.html": "/Alphabetic-Game/index.html",
+    "main.59f4fa2c.css.map": "/Alphabetic-Game/static/css/main.59f4fa2c.css.map",
+    "main.31705269.js.map": "/Alphabetic-Game/static/js/main.31705269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f4fa2c.css",
+    "static/js/main.31705269.js"
+  ]
+}
